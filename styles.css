@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.field2{
+    width: 100%;
+    height: 100%;
+}
+.field{
+    width: 100%;
+    height: 955px;
+}
+.header{
+    display: flex;
+/* flex-direction: row; */
+/* justify-content: space-between; */
+align-items: center;
+padding: 0px;
+/* gap: 258px; */
+
+position: absolute;
+height: 17px;
+left: calc(50% - 1678px/2);
+top: 25px;
+
+}
+
+
+.one{
+    margin-left: 2px;
+}
+.two{
+    margin-left: 332px;
+    display: flex;
+    margin-left: 331px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+.q{
+    margin-left: 1px;
+}
+.a{
+    margin-left: 36px;
+}
+.z{
+    margin-left: 35px;
+}
+.x{
+    margin-left: 36px;
+}
+.s{
+    margin-left: 35px;
+}
+.w{
+    margin-left: 35px;
+}
+.e{
+    margin-left: 36px;
+}
+.three{
+    margin-left: 332px;
+    display: flex;
+    margin-left: 331px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+.d{
+    margin-left: 1px;
+}
+.c{
+    margin-left: 36px;
+}
+.v{
+    margin-left: 35px;
+}
+.body2{
+    display: flex;
+    flex-direction: column; 
+    /* justify-content: space-between; */
+    align-items: center;
+    padding: 0px;
+    /* gap: 258px; */
+    
+    position: absolute;
+    height: 17px;
+    left: calc(50% - 1678px/2);
+    top: 102px;
+    
+}
+.b{
+    margin-left: 752px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+.g{
+    margin: 5px 0px 0px 752px;
+    top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-decoration: underline;
+    font-weight: 500;
+}
+.t{
+    margin: 5px 0px 0px 753px;
+    top: 4px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    gap: 24px;
+    
+    position: absolute;
+    width: 548px;
+    height: 39px;
+    left: calc(50% - 548px/2);
+    top: 900px;
+
+    
+}
+
+
+
+/*  */
+
+.zxc{
+    position: absolute;
+    top:300px;
+    font-size: 170px;
+}
+.zxv{
+    position: absolute;
+    top:300px;
+    font-size: 170px;
+    margin-left: 400px;
+}
+
+
+
+
+
+
+/*  */
